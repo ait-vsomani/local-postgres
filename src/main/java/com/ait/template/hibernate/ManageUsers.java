@@ -24,7 +24,6 @@ public class ManageUsers {
   }
 
   public static void main(String[] args) {
-    // TODO Auto-generated method stub
     Configuration configuration = new Configuration();
     configuration.configure();
     serviceRegistry =
